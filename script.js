@@ -1,6 +1,7 @@
 const num1 = parseInt(document.getElementById("num1-el").value)
 const num2 = parseInt(document.getElementById("num2-el").value)
 
+//identifiers for the DOM elements
 let add = document.getElementById("add")
 let minus = document.getElementById("subtract")
 let times = document.getElementById("multiply")
